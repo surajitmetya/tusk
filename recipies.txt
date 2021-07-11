@@ -4,6 +4,12 @@ kheer
 pasta
 chicken
 
+beans
+pizza
+
 Thankyou
+Done my changes
+
 
 final copy
+
